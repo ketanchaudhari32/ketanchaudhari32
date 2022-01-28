@@ -1,4 +1,4 @@
-### Hi there 👋
+### Hello world 👋
 - 🔭 I’m currently working on developing artificial intelligence to destroy humans from robot!!
 - 🌱 I’m currently pursuing masters in london, growing my depth of understnading in feild of AI.
 - 👯 I’m looking to collaborate mobile development with computer intelligence.
